@@ -1,0 +1,68 @@
+/* stylesheet for link pages */
+
+body {
+    background-color: #BA4949;
+}
+
+
+footer {
+    height: 20px;
+    color: #f1f1f1;
+    font-size: small;
+    background-color: #BA4949;
+    text-align: center;
+    padding: 0px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+h1, h2 {
+    color: #f1f1f1;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#description {
+    color: #f1f1f1;
+    text-align: justify;
+}
+
+#ingredient-header {
+    text-align: left;
+}
+#reditem {
+    color: red;
+}
+
+#purpleitem {
+    color: purple;
+}
+
+#greyitem {
+    color: grey;
+}
+
+#whiteitem {
+    color: white;
+}
+
+#yellowitem {
+    color: yellow;
+}
+
+#pinkitem {
+    color: hotpink;
+}
+
+.ingredients {
+    color: #f1f1f1;
+    text-align: justify;
+}
+
+.steps {
+    color: #f1f1f1;
+    text-align: justify;
+
+}
